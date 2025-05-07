@@ -290,4 +290,4 @@ Summary:
 > Learn how to build large-scale asynchronous Pub/Sub architectures using RabbitMQ and Go. Understand how pub/sub systems differ from point-to-point systems, and how to use real-world technologies to make them work. Write hands-on real-time applications that use a local RabbitMQ server to communicate between services.
 
 Details: [Link](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)  
-My certificate: [Link] (not finished yet)
+My certificate: [Link](https://www.boot.dev/certificates/fddc1919-b5ef-43f5-9d3a-f35efd3de67f)
