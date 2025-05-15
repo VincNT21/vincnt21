@@ -1,5 +1,7 @@
 # Boot.dev Courses Summary <!-- omit in toc -->
 
+My Certificate for completing the whole Back-end Developer Path Track on Boot.Dev is [here](https://www.boot.dev/certificates/b99fe551-7224-4fd9-be60-03c4d4e699e8)
+
 - [1. Python](#1-python)
   - [1.1. Learn to code in Python](#11-learn-to-code-in-python)
   - [1.2. Guided project - Build a Bookbot](#12-guided-project---build-a-bookbot)
